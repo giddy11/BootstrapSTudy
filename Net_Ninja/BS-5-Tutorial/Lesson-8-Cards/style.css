@@ -1,0 +1,43 @@
+
+section {
+    padding: 60px 0;
+    background-color: aqua;
+}
+
+/* Border format */
+
+.bg-lightgray {
+    background-color: lightgray;
+}
+
+.border-red {
+    border: 2px solid red;
+}
+
+.border-green {
+    border: 2px solid green;
+}
+
+.border-black {
+    border: 2px solid black;
+}
+
+.border-magenta {
+    border: 2px solid darkmagenta;
+}
+
+.border-blue {
+    border: 2px solid blue;
+}
+
+.border-lawngreen {
+    border: 2px solid lawngreen;
+}
+
+.border-yellow {
+    border: 2px solid yellow;
+}
+
+.bg-none {
+    background: none;
+}
