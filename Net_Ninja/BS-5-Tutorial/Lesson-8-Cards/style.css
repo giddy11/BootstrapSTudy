@@ -1,12 +1,12 @@
 
 section {
     padding: 60px 0;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 /* Border format */
 
-.bg-lightgray {
+/* .bg-lightgray {
     background-color: lightgray;
 }
 
@@ -40,4 +40,4 @@ section {
 
 .bg-none {
     background: none;
-}
+} */
